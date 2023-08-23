@@ -5,7 +5,7 @@ Enhancing instance segmentation using the Swin Transformer as a backbone in the 
 The goal of this project is to replace the backbone of the Mask R-CNN instance segmentation model with the Swin Transformer architecture. By doing so, we aim to take advantage of the Swin Transformer's ability to capture both local and global context in images, potentially enhancing the accuracy and efficiency of instance segmentation tasks.
 
 ## Current Progress
-In its current phase, the project focuses exclusively on integrating the Swin Transformer code for feature extraction within the Mask R-CNN architecture.
+Currently the project contains a Pytorch implementation of the Swin Transformer for feature extraction (as an independent entity for object detection).
 
 ## Future Plans
 
