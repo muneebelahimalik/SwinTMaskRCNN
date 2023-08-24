@@ -1,2 +1,4 @@
-torch==1.8.1
-einops==0.3.0
+-r requirements/build.txt
+-r requirements/optional.txt
+-r requirements/runtime.txt
+-r requirements/tests.txt
